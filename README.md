@@ -1,6 +1,6 @@
 ![logo](https://github.com/ihuzaifa1/ihuzaifa1/blob/main/Untitled%20design%20(7).png?raw=true)
 # 💫 About Me:
-I'm a passionate computer science student at Punjab University with a strong focus on app development and frontend web development. <br><br>I have a solid grasp of frontend development technologies, including HTML, CSS, JavaScript.<br><br>I'm actively working on Python and Machine Learning...<br><br>My long-term aspiration is to become a data scientist, leveraging the power of data to make informed decisions and drive innovation.<br><br>Looking to collaborate on various projects, internships and other opportunities.
+I'm a passionate computer science student at Punjab University with a strong focus on app development and frontend web development. <br><br>I'm actively working on Python and Machine Learning...<br><br>My long-term aspiration is to become a data scientist, leveraging the power of data to make informed decisions and drive innovation.<br><br>Looking to collaborate on various projects, internships and other opportunities.
 
 
 ## 🌐 Socials:
