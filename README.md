@@ -70,7 +70,6 @@ If you’re looking for a **reliable AI Engineer** for your next project:
 ## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa1-0&theme=dark&hide_border=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1-0&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1-0&theme=dark&hide_border=false&layout=compact)
 
 ---
