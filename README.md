@@ -66,6 +66,15 @@ If you’re looking for a **reliable AI Engineer** for your next project:
 **Upwork:** Available on request  
 
 ---
+## 📊 GitHub Activity & Stats
+
+<img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huzaifa1-0&theme=transparent" />
+<img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa1-0&theme=transparent" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huzaifa1-0&theme=transparent" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=huzaifa1-0&theme=transparent&utcOffset=5" />
+
 
 ## GitHub Activity
 
