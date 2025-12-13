@@ -62,20 +62,17 @@ Custom ML pipelines for data analysis and automation.
 
 If you’re looking for a **reliable AI Engineer** for your next project:
 
-**LinkedIn:** https://www.linkedin.com/in/huzaifa-rashid-ba71a8263  
-**Instagram:** https://www.instagram.com/huzaifa1__0/  
+**LinkedIn:** [https://www.linkedin.com/in/huzaifa-rashid-ba71a8263  ](https://www.linkedin.com/in/huzaifarashid1/)
 **Upwork:** Available on request  
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa1-0&theme=dark&hide_border=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa1-0&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa1-0&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=ihuzaifa1&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
