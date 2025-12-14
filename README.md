@@ -62,7 +62,7 @@ Custom ML pipelines for data analysis and automation.
 
 If you’re looking for a **reliable AI Engineer** for your next project:
 
-**LinkedIn:** [https://www.linkedin.com/in/huzaifa-rashid-ba71a8263  ](https://www.linkedin.com/in/huzaifarashid1/)
+**LinkedIn:** www.linkedin.com/in/huzaifarashid1
 **Upwork:** Available on request  
 
 ---
