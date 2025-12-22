@@ -42,16 +42,16 @@ If you have an idea — I can **turn it into a working AI product**.
 
 ## Featured Work
 
- **AI GitHub Auditor**  
+- **AI GitHub Auditor**  
 Automated system to analyze GitHub repositories using AI for code insights and evaluation.
 
- **AI Voice Translation Web App**  
+- **AI Voice Translation Web App**  
 Real-time speech translation with STT, TTS, and language processing.
 
- **Face Recognition Attendance System**  
+- **Face Recognition Attendance System**  
 Deep learning-based attendance system using computer vision.
 
- **ML & NLP Automation Tools**  
+- **ML & NLP Automation Tools**  
 Custom ML pipelines for data analysis and automation.
 
 > More projects available in my repositories 👇
