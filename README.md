@@ -19,27 +19,6 @@ If you have an idea — I can **turn it into a working AI product**.
 
 ---
 
-## Technologies I Work With
-
-**Languages & Frameworks**
-- Python, Java  
-- PyTorch, TensorFlow  
-
-**AI / ML**
-- Machine Learning & Deep Learning  
-- Computer Vision  
-- Natural Language Processing (NLP)  
-- Speech-to-Text & Text-to-Speech  
-
-**Tools & Workflow**
-- NumPy, Pandas, Matplotlib  
-- MLflow  
-- Git & GitHub  
-- MySQL  
-- Docker (basic)
-
----
-
 ## Featured Work
 
 - **AI GitHub Auditor**  
