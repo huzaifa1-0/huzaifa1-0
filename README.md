@@ -1,4 +1,4 @@
-# Hi, I’m Huzaifa Rashid 👋  
+# Hi, I’m Huzaifa 👋  
 **AI Engineer | Machine Learning & Deep Learning Specialist**
 
 I help individuals, startups, and businesses **build intelligent AI-powered solutions** using Machine Learning, Deep Learning, and modern Python frameworks.  
@@ -33,7 +33,7 @@ Deep learning-based attendance system using computer vision.
 - **ML & NLP Automation Tools**  
 Custom ML pipelines for data analysis and automation.
 
-> More projects available in my repositories 👇
+> More projects available in my repositories 
 
 ---
 
@@ -42,6 +42,7 @@ Custom ML pipelines for data analysis and automation.
 If you’re looking for a **reliable AI Engineer** for your next project:
 
 **LinkedIn:** www.linkedin.com/in/huzaifarashid1
+
 **Upwork:** Available on request  
 
 ---
