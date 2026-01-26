@@ -1,4 +1,4 @@
-# Hi, I’m Huzaifa 👋  
+# Hi, I am Huzaifa 👋  
 **AI Engineer | Machine Learning & Deep Learning Specialist**
 
 I help individuals, startups, and businesses **build intelligent AI-powered solutions** using Machine Learning, Deep Learning, and modern Python frameworks.  
