@@ -3,9 +3,7 @@
 
 I help individuals, startups, and businesses **build intelligent AI-powered solutions** using Machine Learning, Deep Learning, and modern Python frameworks.  
 My focus is on **clean, reliable, and scalable AI systems** that solve real-world problems.
-
 ---
-
 ## What Can I Do For You
 
 ✅ Build **custom Machine Learning & Deep Learning models**  
@@ -16,17 +14,13 @@ My focus is on **clean, reliable, and scalable AI systems** that solve real-worl
 ✅ Model optimisation, evaluation & deployment guidance  
 
 If you have an idea — I can **turn it into a working AI product**.
-
 ---
-
 ##  Let’s Work Together
 
 If you’re looking for a **reliable AI Engineer** for your next project:
 
 **LinkedIn:** www.linkedin.com/in/huzaifarashid1
-
 **Upwork:** Available on request  
-
 ---
 ##  GitHub Activity & Stats
 
