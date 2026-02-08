@@ -33,6 +33,4 @@ If you’re looking for a **reliable AI Engineer** for your next project:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=huzaifa1-0&color=blueviolet)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
