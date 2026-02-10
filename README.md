@@ -1,5 +1,5 @@
 _Hi, I’m_
-##### Huzaifa Rashid
+## Huzaifa Rashid.
 
 **AI Engineer | Machine Learning & Deep Learning Specialist**
 
@@ -8,7 +8,6 @@ My focus is on **clean, reliable, and scalable AI systems** that solve real-worl
 
 ---
 ### What Can I Do For You
-
 - Build **custom Machine Learning & Deep Learning models**  
 - Develop **AI-based web and backend systems**  
 - Computer Vision solutions (face recognition, detection, classification)  
