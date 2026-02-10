@@ -1,5 +1,5 @@
-_Hi, I’m
-## Huzaifa Rashid
+_Hi, I’m_
+##### Huzaifa Rashid
 
 **AI Engineer | Machine Learning & Deep Learning Specialist**
 
