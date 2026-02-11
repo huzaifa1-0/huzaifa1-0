@@ -23,7 +23,6 @@ If you have an idea — I can **turn it into a working AI product**.
 If you’re looking for a **reliable AI Engineer** for your next project:
 
 **LinkedIn:** www.linkedin.com/in/huzaifarashid1
-
 **Upwork:** Available on request  
 
 ---
