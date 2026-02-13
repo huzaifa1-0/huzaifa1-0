@@ -15,7 +15,6 @@ My focus is on **clean, reliable, and scalable AI systems** that solve real-worl
 
 If you have an idea — I can **turn it into a working AI product**.
 
----
 ###  Let’s Work Together
 
 If you’re looking for a **reliable AI Engineer** for your next project:
