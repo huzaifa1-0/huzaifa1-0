@@ -5,7 +5,6 @@ _Hi, I’m_
 I help individuals, startups, and businesses **build intelligent AI-powered solutions** using Machine Learning, Deep Learning, and modern Python frameworks.  
 My focus is on **clean, reliable, and scalable AI systems** that solve real-world problems.
 
----
 ### What Can I Do For You
 - Build **custom Machine Learning & Deep Learning models**  
 - Develop **AI-based web and backend systems**  
