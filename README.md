@@ -81,8 +81,6 @@ Marks attendance from a live camera feed. Runs on local hardware at about 92% re
 
 Have a problem you want to solve with AI, or a process you want to automate? Tell me what you are trying to build and what data you have. I will reply with how I would approach it, a rough timeline, and anything that could make it harder than it looks.
 
-**Email:** [huzaifaras10@gmail.com]
-
 ---
 ###  GitHub Activity & Stats
 
